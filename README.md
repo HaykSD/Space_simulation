@@ -1,6 +1,6 @@
 # Space Simulator with Pygame
 
-![Simulator Screenshot](https://github.com/HaykSD/Space_simulation/assets/60398571/0141df45-dc9d-486b-9b2a-f1f03f772ab0)
+![Simulator Screenshot](https://github.com/HaykSD/Space_simulation/assets/60398571/17005a26-83d8-4e25-bd9e-38e392caf8a7)
 
 This is a space simulator created with Pygame that allows you to explore the movements and interactions of celestial bodies in a virtual space. You can add, modify, and observe planets as they traverse their trajectories.
 
